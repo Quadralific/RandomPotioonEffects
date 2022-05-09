@@ -1,4 +1,5 @@
 # RandomPotionEffects
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://java.com) [![downloads](https://img.shields.io/github/downloads/RedstoneNotPlaced/RandomPotioonEffects/total?style=for-the-badge)](https://github.com/RedstoneNotPlaced/RandomPotioonEffects/releases/tag/1.0.0)
 - Minecraft but every 30 seconds it gives you a random potion effect
 
 # Installation
