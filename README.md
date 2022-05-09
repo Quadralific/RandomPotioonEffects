@@ -18,4 +18,4 @@
 - This plugin will work on Spigot or Paper on version 1.18.
 
 # Video Test
-https://youtu.be/isrBQTK8KAU
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/isrBQTK8KAU/0.jpg)](https://youtu.be/isrBQTK8KAU "Plugin Test")
